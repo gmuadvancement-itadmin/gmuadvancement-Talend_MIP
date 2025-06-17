@@ -1,0 +1,29 @@
+{
+  "itemId" : "_FdWWUAjZEfC6OIqFLGHYxg",
+  "contextList" : [ {
+    "contextName" : "Sandbox",
+    "repoId" : "_poeEsAjZEfC6OIqFLGHYxg",
+    "parameterList" : [ {
+      "id" : "_po3tWQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_AdditionalParams"
+    }, {
+      "id" : "_po3tWgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_ServiceName"
+    }, {
+      "id" : "_po3tWwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Schema"
+    }, {
+      "id" : "_po3tXAjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Port"
+    }, {
+      "id" : "_po3tXQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Server"
+    }, {
+      "id" : "_po3tXgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Password"
+    }, {
+      "id" : "_po3tXwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Login"
+    } ]
+  } ]
+}

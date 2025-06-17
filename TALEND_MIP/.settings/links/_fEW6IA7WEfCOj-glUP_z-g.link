@@ -1,0 +1,208 @@
+{
+  "itemId" : "_fEW6IA7WEfCOj-glUP_z-g",
+  "contextList" : [ {
+    "contextName" : "Production",
+    "repoId" : "_adr4sA7QEfCOj-glUP_z-g",
+    "parameterList" : [ {
+      "id" : "_aefJ8A7QEfCOj-glUP_z-g",
+      "name" : "Job_Error_msg"
+    }, {
+      "id" : "_aefJ8Q7QEfCOj-glUP_z-g",
+      "name" : "Job_Run_Status"
+    }, {
+      "id" : "_aefJ8g7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobName"
+    }, {
+      "id" : "_aefJ8w7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobRunStartDate"
+    }, {
+      "id" : "_ixOmwA7REfCOj-glUP_z-g",
+      "name" : "CurrentJobRunEndDate"
+    }, {
+      "id" : "_7XNeAA7REfCOj-glUP_z-g",
+      "name" : "InsertLogRow"
+    }, {
+      "id" : "_0kDLUA7VEfCOj-glUP_z-g",
+      "name" : "LogFile"
+    }, {
+      "id" : "_aOLxMA7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobID"
+    }, {
+      "id" : "_aOLxMQ7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobModuleType"
+    }, {
+      "id" : "_hXY9oA7fEfCOj-glUP_z-g",
+      "name" : "CurrentBatchID"
+    }, {
+      "id" : "_UIGNoA7mEfCArPk1M-9O3w",
+      "name" : "REJECT_ROWS_EXIST"
+    }, {
+      "id" : "_OG4nMA7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunBookmark"
+    }, {
+      "id" : "_OG4nMQ7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunLogfile"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_poeEsAjZEfC6OIqFLGHYxg",
+    "parameterList" : [ {
+      "id" : "_po3tUQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_AdditionalParams"
+    }, {
+      "id" : "_po3tVgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Password"
+    }, {
+      "id" : "_po3tVQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Server"
+    }, {
+      "id" : "_po3tVwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Login"
+    }, {
+      "id" : "_po3tUwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Schema"
+    }, {
+      "id" : "_po3tVAjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Port"
+    }, {
+      "id" : "_po3tUgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_adr4sA7QEfCOj-glUP_z-g",
+    "parameterList" : [ {
+      "id" : "_aefJ9A7QEfCOj-glUP_z-g",
+      "name" : "Job_Error_msg"
+    }, {
+      "id" : "_aefJ9Q7QEfCOj-glUP_z-g",
+      "name" : "Job_Run_Status"
+    }, {
+      "id" : "_aefJ9g7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobName"
+    }, {
+      "id" : "_aefJ9w7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobRunStartDate"
+    }, {
+      "id" : "_ixOmwQ7REfCOj-glUP_z-g",
+      "name" : "CurrentJobRunEndDate"
+    }, {
+      "id" : "_7XNeAQ7REfCOj-glUP_z-g",
+      "name" : "InsertLogRow"
+    }, {
+      "id" : "_0kDLUQ7VEfCOj-glUP_z-g",
+      "name" : "LogFile"
+    }, {
+      "id" : "_aOLxMg7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobID"
+    }, {
+      "id" : "_aOLxMw7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobModuleType"
+    }, {
+      "id" : "_hXY9oQ7fEfCOj-glUP_z-g",
+      "name" : "CurrentBatchID"
+    }, {
+      "id" : "_UIGNoQ7mEfCArPk1M-9O3w",
+      "name" : "REJECT_ROWS_EXIST"
+    }, {
+      "id" : "_OG4nMg7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunBookmark"
+    }, {
+      "id" : "_OG4nMw7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunLogfile"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_poeEsAjZEfC6OIqFLGHYxg",
+    "parameterList" : [ {
+      "id" : "_8JI5QQ1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_AdditionalParams"
+    }, {
+      "id" : "_8JI5Rg1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_Password"
+    }, {
+      "id" : "_8JI5RQ1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_Server"
+    }, {
+      "id" : "_8JI5Rw1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_Login"
+    }, {
+      "id" : "_8JI5Qw1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_Schema"
+    }, {
+      "id" : "_8JI5RA1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_Port"
+    }, {
+      "id" : "_8JI5Qg1oEfCbp4KNICENMQ",
+      "name" : "GMU_INT_ServiceName"
+    } ]
+  }, {
+    "contextName" : "Sandbox",
+    "repoId" : "_adr4sA7QEfCOj-glUP_z-g",
+    "parameterList" : [ {
+      "id" : "_aefJ-A7QEfCOj-glUP_z-g",
+      "name" : "Job_Error_msg"
+    }, {
+      "id" : "_aefJ-Q7QEfCOj-glUP_z-g",
+      "name" : "Job_Run_Status"
+    }, {
+      "id" : "_aefJ-g7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobName"
+    }, {
+      "id" : "_aefJ-w7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobRunStartDate"
+    }, {
+      "id" : "_ixOmwg7REfCOj-glUP_z-g",
+      "name" : "CurrentJobRunEndDate"
+    }, {
+      "id" : "_7XNeAg7REfCOj-glUP_z-g",
+      "name" : "InsertLogRow"
+    }, {
+      "id" : "_0kDLUg7VEfCOj-glUP_z-g",
+      "name" : "LogFile"
+    }, {
+      "id" : "_aOLxNA7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobID"
+    }, {
+      "id" : "_aOLxNQ7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobModuleType"
+    }, {
+      "id" : "_hXY9og7fEfCOj-glUP_z-g",
+      "name" : "CurrentBatchID"
+    }, {
+      "id" : "_UIGNog7mEfCArPk1M-9O3w",
+      "name" : "REJECT_ROWS_EXIST"
+    }, {
+      "id" : "_OG4nNA7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunBookmark"
+    }, {
+      "id" : "_OG4nNQ7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunLogfile"
+    } ]
+  }, {
+    "contextName" : "Sandbox",
+    "repoId" : "_poeEsAjZEfC6OIqFLGHYxg",
+    "parameterList" : [ {
+      "id" : "_po3tWQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_AdditionalParams"
+    }, {
+      "id" : "_po3tXgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Password"
+    }, {
+      "id" : "_po3tXQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Server"
+    }, {
+      "id" : "_po3tXwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Login"
+    }, {
+      "id" : "_po3tWwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Schema"
+    }, {
+      "id" : "_po3tXAjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Port"
+    }, {
+      "id" : "_po3tWgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_ServiceName"
+    } ]
+  } ]
+}
