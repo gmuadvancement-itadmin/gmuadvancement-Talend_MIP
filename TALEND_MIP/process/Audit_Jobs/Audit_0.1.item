@@ -109,7 +109,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:FVDqCSQZYKRULi1zC7d7zUleBMTTMUJftldFbHcm" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:h3+shL+W/xKIeh5CDaGfZ0VaMHhQLAQjcxQxCXo7" show="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
@@ -144,7 +144,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:komdr55HH1KarNiaz6+w0JAdRUpa8OPpUmewqh9v" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Ax5n7USTVzK4OdMoQiMNGHhYYfJ5r+656BYWTaEl" show="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" show="false"/>
@@ -1195,7 +1195,7 @@
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tDBOutput_2" offsetLabelX="0" offsetLabelY="0" source="tDBOutput_2" target="tDBCommit_1">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="OnComponentOk3" show="false"/>
   </connection>
-  <note opaque="true" posX="880" posY="-40" sizeHeight="361" sizeWidth="321" text="JOB_ID Value Range&#xD;&#xA;a. Datawareshouse 1-10000&#xD;&#xA;b. Anthology-20000s&#xD;&#xA;c. Banner Integrations-30000s&#xD;&#xA;d. Salesforce Integrations-40000s&#xD;&#xA;&#xD;&#xA;JOB_STATUS Values:&#xD;&#xA;a. Running&#xD;&#xA;b. Error&#xD;&#xA;c. Complete&#xD;&#xA;d. Ready">
+  <note opaque="false" posX="880" posY="-40" sizeHeight="361" sizeWidth="321" text="JOB_ID Value Range&#xD;&#xA;a. Datawareshouse 1-10000&#xD;&#xA;b. Anthology-20000s&#xD;&#xA;c. Banner Integrations-30000s&#xD;&#xA;d. Salesforce Integrations-40000s&#xD;&#xA;e. MIP Integration-50000s&#xD;&#xA;&#xD;&#xA;JOB_STATUS Values:&#xD;&#xA;a. Running&#xD;&#xA;b. Error&#xD;&#xA;c. Complete&#xD;&#xA;d. Ready">
     <elementParameter field="RADIO" name="NOTETXT_LEFT" value="true"/>
     <elementParameter field="RADIO" name="NOTETXT_CENTER" value="false"/>
     <elementParameter field="RADIO" name="NOTELABEL_CENTER" value="false"/>

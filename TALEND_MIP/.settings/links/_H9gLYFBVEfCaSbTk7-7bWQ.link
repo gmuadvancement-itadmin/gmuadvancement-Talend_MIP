@@ -1,0 +1,79 @@
+{
+  "itemId" : "_H9gLYFBVEfCaSbTk7-7bWQ",
+  "contextList" : [ {
+    "contextName" : "Production",
+    "repoId" : "_Gik0wEuPEfCYlKansXyACg",
+    "parameterList" : [ {
+      "id" : "_GiyQIUuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Database"
+    }, {
+      "id" : "_GiyQIkuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Schema"
+    }, {
+      "id" : "_GiyQI0uPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Server"
+    }, {
+      "id" : "_GiyQJEuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Port"
+    }, {
+      "id" : "_GiyQJUuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_AdditionalParams"
+    }, {
+      "id" : "_GiyQJkuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Password"
+    }, {
+      "id" : "_GiyQJ0uPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Login"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_Gik0wEuPEfCYlKansXyACg",
+    "parameterList" : [ {
+      "id" : "_Bod8IUuYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Database"
+    }, {
+      "id" : "_Bod8IkuYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Schema"
+    }, {
+      "id" : "_Bod8I0uYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Server"
+    }, {
+      "id" : "_Bod8JEuYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Port"
+    }, {
+      "id" : "_Bod8JUuYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_AdditionalParams"
+    }, {
+      "id" : "_Bod8JkuYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Password"
+    }, {
+      "id" : "_Bod8J0uYEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Login"
+    } ]
+  }, {
+    "contextName" : "Sandbox",
+    "repoId" : "_Gik0wEuPEfCYlKansXyACg",
+    "parameterList" : [ {
+      "id" : "_GiyQKUuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Database"
+    }, {
+      "id" : "_GiyQKkuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Schema"
+    }, {
+      "id" : "_GiyQK0uPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Server"
+    }, {
+      "id" : "_GiyQLEuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Port"
+    }, {
+      "id" : "_GiyQLUuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_AdditionalParams"
+    }, {
+      "id" : "_GiyQLkuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Password"
+    }, {
+      "id" : "_GiyQL0uPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Login"
+    } ]
+  } ]
+}

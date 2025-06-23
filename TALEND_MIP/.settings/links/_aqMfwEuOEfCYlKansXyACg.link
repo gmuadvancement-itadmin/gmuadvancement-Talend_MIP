@@ -1,0 +1,29 @@
+{
+  "itemId" : "_aqMfwEuOEfCYlKansXyACg",
+  "contextList" : [ {
+    "contextName" : "Production",
+    "repoId" : "_Gik0wEuPEfCYlKansXyACg",
+    "parameterList" : [ {
+      "id" : "_GiyQIUuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Database"
+    }, {
+      "id" : "_GiyQIkuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Schema"
+    }, {
+      "id" : "_GiyQI0uPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Server"
+    }, {
+      "id" : "_GiyQJEuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Port"
+    }, {
+      "id" : "_GiyQJUuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_AdditionalParams"
+    }, {
+      "id" : "_GiyQJkuPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Password"
+    }, {
+      "id" : "_GiyQJ0uPEfCYlKansXyACg",
+      "name" : "GMU_MIP_SQL_SERVER_Login"
+    } ]
+  } ]
+}
