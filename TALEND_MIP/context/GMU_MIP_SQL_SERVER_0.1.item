@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
-  <talendfile:ContextType xmi:id="_GiyQIEuPEfCYlKansXyACg" confirmationNeeded="false" hide="false" name="Production">
-    <contextParameter xmi:id="_GiyQIUuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Database" prompt="GMU_MIP_SQL_SERVER_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMUF PLAY"/>
-    <contextParameter xmi:id="_GiyQIkuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Schema" prompt="GMU_MIP_SQL_SERVER_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_GiyQI0uPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Server" prompt="GMU_MIP_SQL_SERVER_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="FNDTMIP2P.mesa.gmu.edu"/>
-    <contextParameter xmi:id="_GiyQJEuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Port" prompt="GMU_MIP_SQL_SERVER_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_GiyQJUuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_AdditionalParams" prompt="GMU_MIP_SQL_SERVER_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_GiyQJkuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Password" prompt="GMU_MIP_SQL_SERVER_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:0MHznc8tC3+tS5fjHRzIKn9ui+cPXN3gCYjXbmMmmFmWKo5IJGonGMjAuel72w=="/>
-    <contextParameter xmi:id="_GiyQJ0uPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Login" prompt="GMU_MIP_SQL_SERVER_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMU_INT_ORCL_SQLSERV"/>
+  <talendfile:ContextType xmi:id="_16XJUFK1EfCNRaeXZG1lyQ" confirmationNeeded="false" hide="false" name="Sandbox">
+    <contextParameter xmi:id="_16XJUVK1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_Database" prompt="GMU_MIP_SQL_SERVER_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMUF PLAY"/>
+    <contextParameter xmi:id="_16XJUlK1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_Schema" prompt="GMU_MIP_SQL_SERVER_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_16XJU1K1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_Server" prompt="GMU_MIP_SQL_SERVER_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="FNDTMIP2P.mesa.gmu.edu"/>
+    <contextParameter xmi:id="_16XJVFK1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_Port" prompt="GMU_MIP_SQL_SERVER_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_16XJVVK1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_AdditionalParams" prompt="GMU_MIP_SQL_SERVER_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_16XJVlK1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_Password" prompt="GMU_MIP_SQL_SERVER_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:0MHznc8tC3+tS5fjHRzIKn9ui+cPXN3gCYjXbmMmmFmWKo5IJGonGMjAuel72w=="/>
+    <contextParameter xmi:id="_16XJV1K1EfCNRaeXZG1lyQ" comment="" name="GMU_MIP_SQL_SERVER_Login" prompt="GMU_MIP_SQL_SERVER_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMU_INT_ORCL_SQLSERV"/>
   </talendfile:ContextType>
-  <talendfile:ContextType xmi:id="_GiyQKEuPEfCYlKansXyACg" confirmationNeeded="false" hide="false" name="Sandbox">
+  <talendfile:ContextType xmi:id="_GiyQKEuPEfCYlKansXyACg" confirmationNeeded="false" hide="false" name="Production">
     <contextParameter xmi:id="_GiyQKUuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Database" prompt="GMU_MIP_SQL_SERVER_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMUF LIVE DATA"/>
     <contextParameter xmi:id="_GiyQKkuPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Schema" prompt="GMU_MIP_SQL_SERVER_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
     <contextParameter xmi:id="_GiyQK0uPEfCYlKansXyACg" comment="" name="GMU_MIP_SQL_SERVER_Server" prompt="GMU_MIP_SQL_SERVER_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="FNDTMIP2P.mesa.gmu.edu"/>

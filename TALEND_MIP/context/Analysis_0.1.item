@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_4RXSYFK0EfCNRaeXZG1lyQ" name="Production">
+    <contextParameter xmi:id="_4SIucFK0EfCNRaeXZG1lyQ" comment="" name="Files_Location" prompt="Files_Location?" promptNeeded="false" type="id_Directory" value="D:/Projects/Talend Cloud Projects/MIP_Awardee_Information_to_PF/Production/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_4RXSYVK0EfCNRaeXZG1lyQ" name="Development">
+    <contextParameter xmi:id="_4SIucVK0EfCNRaeXZG1lyQ" comment="" name="Files_Location" prompt="Files_Location?" promptNeeded="false" type="id_Directory" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_4RXSYlK0EfCNRaeXZG1lyQ" name="Sandbox">
+    <contextParameter xmi:id="_4SIuclK0EfCNRaeXZG1lyQ" comment="" name="Files_Location" prompt="Files_Location?" promptNeeded="false" type="id_Directory" value="D:/Projects/Talend Cloud Projects/MIP_Awardee_Information_to_PF/Sandbox/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

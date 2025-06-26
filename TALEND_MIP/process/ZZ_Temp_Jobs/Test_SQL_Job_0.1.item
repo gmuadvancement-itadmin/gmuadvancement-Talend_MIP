@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Sandbox" jobType="Standard">
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Production" jobType="Standard">
   <context confirmationNeeded="false" hide="false" name="Production">
-    <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Database" prompt="GMU_MIP_SQL_SERVER_Database?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="GMUF PLAY" internalId="_9U7Xd0ukEfCYlKansXyACg"/>
+    <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Database" prompt="GMU_MIP_SQL_SERVER_Database?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="GMUF LIVE DATA" internalId="_9U7Xd0ukEfCYlKansXyACg"/>
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Schema" prompt="GMU_MIP_SQL_SERVER_Schema?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="" internalId="_9U7XeEukEfCYlKansXyACg"/>
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Server" prompt="GMU_MIP_SQL_SERVER_Server?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="FNDTMIP2P.mesa.gmu.edu" internalId="_9U7XeUukEfCYlKansXyACg"/>
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Port" prompt="GMU_MIP_SQL_SERVER_Port?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="" internalId="_9U7XekukEfCYlKansXyACg"/>
@@ -18,7 +18,7 @@
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Password" prompt="GMU_MIP_SQL_SERVER_Password?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_Password" value="enc:system.encryption.key.v1:EIRCC6hoO8P/JPME8h5fQTifFeq4XsYSP+92biWULpruVT0x91AvFX5Ckdr7Qw==" internalId="_9U7Xg0ukEfCYlKansXyACg"/>
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Login" prompt="GMU_MIP_SQL_SERVER_Login?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="GMU_INT_ORCL_SQLSERV" internalId="_9U7XhEukEfCYlKansXyACg"/>
   </context>
-  <context confirmationNeeded="false" hide="false" name="Sandbox">
+  <context confirmationNeeded="false" hide="false" name="Production">
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Database" prompt="GMU_MIP_SQL_SERVER_Database?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="GMUF LIVE DATA" internalId="_9U7XhUukEfCYlKansXyACg"/>
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Schema" prompt="GMU_MIP_SQL_SERVER_Schema?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="" internalId="_9U7XhkukEfCYlKansXyACg"/>
     <contextParameter comment="" name="GMU_MIP_SQL_SERVER_Server" prompt="GMU_MIP_SQL_SERVER_Server?" promptNeeded="false" repositoryContextId="_Gik0wEuPEfCYlKansXyACg" type="id_String" value="FNDTMIP2P.mesa.gmu.edu" internalId="_9U7Xh0ukEfCYlKansXyACg"/>
@@ -127,16 +127,6 @@
   </parameters>
   <node componentName="tMSSqlInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="120" posY="40">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBInput_1" show="false"/>
-    <elementParameter field="TEXT" name="COMPONENT_NAME" value="tMSSqlInput" show="false"/>
-    <elementParameter field="TEXT" name="VERSION" value="0.102 (ALPHA)" show="false"/>
-    <elementParameter field="TEXT" name="FAMILY" value="Databases/DB Specifics/MS_SQL_Server" show="false"/>
-    <elementParameter field="CHECK" name="START" value="true" show="false"/>
-    <elementParameter field="CHECK" name="STARTABLE" value="true" show="false"/>
-    <elementParameter field="CHECK" name="SUBTREE_START" value="true" show="false"/>
-    <elementParameter field="CHECK" name="END_OF_FLOW" value="false" show="false"/>
-    <elementParameter field="TEXT" name="HELP" value="org.talend.help.tMSSqlInput" show="false"/>
-    <elementParameter field="DIRECTORY" name="IREPORT_PATH" value="" show="false"/>
-    <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="D:\Talend-Studio-20240527_1700-V8.0.1\configuration\lib\java" show="false"/>
     <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="false"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="" show="false"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
