@@ -22,28 +22,6 @@
     <contextParameter comment="" name="CurrentJobRunBookmark" prompt="CurrentJobRunBookmark?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_ZeXc0A7oEfCArPk1M-9O3w"/>
     <contextParameter comment="" name="CurrentJobRunLogfile" prompt="CurrentJobRunLogfile?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_ZeXc0Q7oEfCArPk1M-9O3w"/>
   </context>
-  <context confirmationNeeded="false" hide="false" name="Development">
-    <contextParameter comment="" name="Job_Error_msg" prompt="Job_Error_msg?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_WhNX7g7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="Job_Run_Status" prompt="Job_Run_Status?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_WhNX7w7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="This should match with the STG_AQ.DWH_C_JOB_NAMES.JOB_NAME valeu for the corresponding job" name="CurrentJobName" prompt="CurrentJobName?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_WhNX8A7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="CurrentJobRunStartDate" prompt="CurrentJobRunStartDate?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_Date" value="" internalId="_WhNX8Q7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="CurrentJobRunEndDate" prompt="CurrentJobRunEndDate?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_Date" value="" internalId="_WhNX8g7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="InsertLogRow" prompt="InsertLogRow?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_Boolean" value="" internalId="_WhNX8w7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="LogFile" prompt="LogFile?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_WhNX9A7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_AdditionalParams" prompt="GMU_INT_AdditionalParams?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_String" value="" internalId="_WhNX9Q7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_Password" prompt="GMU_INT_Password?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_Password" value="enc:system.encryption.key.v1:Lqy0JT1Yv05YqGK1O5waX/oiTGPpfPPxHyHQdfH90QKXWns=" internalId="_WhNX9g7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_Server" prompt="GMU_INT_Server?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_String" value="FNDTDB4T.MESA.GMU.EDU" internalId="_WhNX9w7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_Login" prompt="GMU_INT_Login?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_String" value="GMU_INT" internalId="_WhNX-A7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_Schema" prompt="GMU_INT_Schema?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_String" value="" internalId="_WhNX-Q7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_Port" prompt="GMU_INT_Port?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_String" value="9373" internalId="_WhNX-g7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="GMU_INT_ServiceName" prompt="GMU_INT_ServiceName?" promptNeeded="false" repositoryContextId="_poeEsAjZEfC6OIqFLGHYxg" type="id_String" value="FOZZIE19" internalId="_WhNX-w7XEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="CurrentJobID" prompt="CurrentJobID?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_Integer" value="" internalId="_jlF2Mg7dEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="CurrentJobModuleType" prompt="CurrentJobModuleType?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_jlF2Mw7dEfCOj-glUP_z-g"/>
-    <contextParameter comment="This is usually auto calculated based on the JOBNAME provided as input" name="CurrentBatchID" prompt="CurrentBatchID?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_Integer" value="" internalId="_nBbIQQ7fEfCOj-glUP_z-g"/>
-    <contextParameter comment="" name="REJECT_ROWS_EXIST" prompt="REJECT_ROWS_EXIST?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_iMIwIQ7mEfCArPk1M-9O3w"/>
-    <contextParameter comment="" name="CurrentJobRunBookmark" prompt="CurrentJobRunBookmark?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_ZeXc0g7oEfCArPk1M-9O3w"/>
-    <contextParameter comment="" name="CurrentJobRunLogfile" prompt="CurrentJobRunLogfile?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_ZeXc0w7oEfCArPk1M-9O3w"/>
-  </context>
   <context confirmationNeeded="false" hide="false" name="Sandbox">
     <contextParameter comment="" name="Job_Error_msg" prompt="Job_Error_msg?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_WhNX_A7XEfCOj-glUP_z-g"/>
     <contextParameter comment="" name="Job_Run_Status" prompt="Job_Run_Status?" promptNeeded="false" repositoryContextId="_adr4sA7QEfCOj-glUP_z-g" type="id_String" value="" internalId="_WhNX_Q7XEfCOj-glUP_z-g"/>
@@ -1233,7 +1211,7 @@
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="247;247;247"/>
   </subjob>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true" show="false"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tPrejob_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="0;0;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="247;247;247"/>

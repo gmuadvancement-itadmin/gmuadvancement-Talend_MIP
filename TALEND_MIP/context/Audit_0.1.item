@@ -46,27 +46,4 @@
     <contextParameter xmi:id="_vzNiJErkEfCb3LHElrAy9Q" comment="" name="Audit_Email" prompt="Audit_Email?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
     <contextParameter xmi:id="_vzNiJUrkEfCb3LHElrAy9Q" comment="" name="Audit_Email_Pass" prompt="Audit_Email_Pass?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
   </talendfile:ContextType>
-  <talendfile:ContextType xmi:id="_adsfwQ7QEfCOj-glUP_z-g" confirmationNeeded="false" hide="false" name="Development">
-    <contextParameter xmi:id="_aefJ9A7QEfCOj-glUP_z-g" comment="" name="Job_Error_msg" prompt="Job_Error_msg?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_aefJ9Q7QEfCOj-glUP_z-g" comment="" name="Job_Run_Status" prompt="Job_Run_Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_aefJ9g7QEfCOj-glUP_z-g" comment="This should match with the STG_AQ.DWH_C_JOB_NAMES.JOB_NAME valeu for the corresponding job" name="CurrentJobName" prompt="CurrentJobName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_aefJ9w7QEfCOj-glUP_z-g" comment="" name="CurrentJobRunStartDate" prompt="CurrentJobRunStartDate?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value=""/>
-    <contextParameter xmi:id="_ixOmwQ7REfCOj-glUP_z-g" comment="" name="CurrentJobRunEndDate" prompt="CurrentJobRunEndDate?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value=""/>
-    <contextParameter xmi:id="_7XNeAQ7REfCOj-glUP_z-g" comment="" name="InsertLogRow" prompt="InsertLogRow?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value=""/>
-    <contextParameter xmi:id="_0kDLUQ7VEfCOj-glUP_z-g" comment="" name="LogFile" prompt="LogFile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_aOLxMg7dEfCOj-glUP_z-g" comment="" name="CurrentJobID" prompt="CurrentJobID?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
-    <contextParameter xmi:id="_aOLxMw7dEfCOj-glUP_z-g" comment="" name="CurrentJobModuleType" prompt="CurrentJobModuleType?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_hXY9oQ7fEfCOj-glUP_z-g" comment="This is usually auto calculated based on the JOBNAME provided as input" name="CurrentBatchID" prompt="CurrentBatchID?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value=""/>
-    <contextParameter xmi:id="_UIGNoQ7mEfCArPk1M-9O3w" comment="" name="REJECT_ROWS_EXIST" prompt="REJECT_ROWS_EXIST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_OG4nMg7oEfCArPk1M-9O3w" comment="" name="CurrentJobRunBookmark" prompt="CurrentJobRunBookmark?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_OG4nMw7oEfCArPk1M-9O3w" comment="" name="CurrentJobRunLogfile" prompt="CurrentJobRunLogfile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_trKDcQ8uEfCnK7AFGcxsjw" comment="" name="Error_File_Location" prompt="Error_File_Location?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="D:/Projects/Talend Cloud Job Error Files/"/>
-    <contextParameter xmi:id="_hf9ccQ8vEfCnK7AFGcxsjw" comment="" name="ContinueJobRun" prompt="ContinueJobRun?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="true"/>
-    <contextParameter xmi:id="_z9L5E0bPEfCyku4R5VrjLg" comment="" name="CurrentJobRunStartDate_YYYYMMDD" prompt="CurrentJobRunStartDate_YYYYMMDD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_z9L5FEbPEfCyku4R5VrjLg" comment="" name="NextJobRunStartDate_YYYYMMDD" prompt="NextJobRunStartDate_YYYYMMDD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_nqPEQUbQEfCyku4R5VrjLg" comment="" name="RunCleanUpJob" prompt="RunCleanUpJob?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
-    <contextParameter xmi:id="_U0L0EUrdEfCb3LHElrAy9Q" comment="" name="Email_Notification" prompt="Email_Notification?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_vzNiIkrkEfCb3LHElrAy9Q" comment="" name="Audit_Email" prompt="Audit_Email?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_vzNiI0rkEfCb3LHElrAy9Q" comment="" name="Audit_Email_Pass" prompt="Audit_Email_Pass?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
-  </talendfile:ContextType>
 </xmi:XMI>

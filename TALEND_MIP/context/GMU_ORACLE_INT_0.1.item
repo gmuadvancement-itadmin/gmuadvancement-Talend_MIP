@@ -18,13 +18,4 @@
     <contextParameter xmi:id="_po3tXgjZEfC6OIqFLGHYxg" comment="" name="GMU_INT_Password" prompt="GMU_INT_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:rLxoghLAQlYQGqlklpsgWMuOtrtYB5W26V8ALx6joz8vR4s="/>
     <contextParameter xmi:id="_po3tXwjZEfC6OIqFLGHYxg" comment="" name="GMU_INT_Login" prompt="GMU_INT_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMU_INT"/>
   </talendfile:ContextType>
-  <talendfile:ContextType xmi:id="_8JI5QA1oEfCbp4KNICENMQ" confirmationNeeded="false" hide="false" name="Development">
-    <contextParameter xmi:id="_8JI5QQ1oEfCbp4KNICENMQ" comment="" name="GMU_INT_AdditionalParams" prompt="GMU_INT_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_8JI5Qg1oEfCbp4KNICENMQ" comment="" name="GMU_INT_ServiceName" prompt="GMU_INT_ServiceName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="FOZZIE19"/>
-    <contextParameter xmi:id="_8JI5Qw1oEfCbp4KNICENMQ" comment="" name="GMU_INT_Schema" prompt="GMU_INT_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
-    <contextParameter xmi:id="_8JI5RA1oEfCbp4KNICENMQ" comment="" name="GMU_INT_Port" prompt="GMU_INT_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="9373"/>
-    <contextParameter xmi:id="_8JI5RQ1oEfCbp4KNICENMQ" comment="" name="GMU_INT_Server" prompt="GMU_INT_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="FNDTDB4T.MESA.GMU.EDU"/>
-    <contextParameter xmi:id="_8JI5Rg1oEfCbp4KNICENMQ" comment="" name="GMU_INT_Password" prompt="GMU_INT_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:rLxoghLAQlYQGqlklpsgWMuOtrtYB5W26V8ALx6joz8vR4s="/>
-    <contextParameter xmi:id="_8JI5Rw1oEfCbp4KNICENMQ" comment="" name="GMU_INT_Login" prompt="GMU_INT_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GMU_INT"/>
-  </talendfile:ContextType>
 </xmi:XMI>
