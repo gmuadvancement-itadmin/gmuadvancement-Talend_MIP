@@ -1,0 +1,188 @@
+{
+  "itemId" : "_Xv9a0KkmEfCuLth9fa6Gcw",
+  "contextList" : [ {
+    "contextName" : "Production",
+    "repoId" : "_poeEsAjZEfC6OIqFLGHYxg",
+    "parameterList" : [ {
+      "id" : "_po3tUQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_AdditionalParams"
+    }, {
+      "id" : "_po3tUgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_ServiceName"
+    }, {
+      "id" : "_po3tUwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Schema"
+    }, {
+      "id" : "_po3tVAjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Port"
+    }, {
+      "id" : "_po3tVQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Server"
+    }, {
+      "id" : "_po3tVgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Password"
+    }, {
+      "id" : "_po3tVwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Login"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_adr4sA7QEfCOj-glUP_z-g",
+    "parameterList" : [ {
+      "id" : "_hXY9oA7fEfCOj-glUP_z-g",
+      "name" : "CurrentBatchID"
+    }, {
+      "id" : "_OG4nMA7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunBookmark"
+    }, {
+      "id" : "_aefJ8g7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobName"
+    }, {
+      "id" : "_aefJ8A7QEfCOj-glUP_z-g",
+      "name" : "Job_Error_msg"
+    }, {
+      "id" : "_z9L5EUbPEfCyku4R5VrjLg",
+      "name" : "NextJobRunStartDate_YYYYMMDD"
+    }, {
+      "id" : "_nqPEQEbQEfCyku4R5VrjLg",
+      "name" : "RunCleanUpJob"
+    }, {
+      "id" : "_ixOmwA7REfCOj-glUP_z-g",
+      "name" : "CurrentJobRunEndDate"
+    }, {
+      "id" : "_7XNeAA7REfCOj-glUP_z-g",
+      "name" : "InsertLogRow"
+    }, {
+      "id" : "_0kDLUA7VEfCOj-glUP_z-g",
+      "name" : "LogFile"
+    }, {
+      "id" : "_OG4nMQ7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunLogfile"
+    }, {
+      "id" : "_aefJ8w7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobRunStartDate"
+    }, {
+      "id" : "_aOLxMA7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobID"
+    }, {
+      "id" : "_U0L0EErdEfCb3LHElrAy9Q",
+      "name" : "Email_Notification"
+    }, {
+      "id" : "_vzNiIUrkEfCb3LHElrAy9Q",
+      "name" : "Audit_Email_Pass"
+    }, {
+      "id" : "_UIGNoA7mEfCArPk1M-9O3w",
+      "name" : "REJECT_ROWS_EXIST"
+    }, {
+      "id" : "_aefJ8Q7QEfCOj-glUP_z-g",
+      "name" : "Job_Run_Status"
+    }, {
+      "id" : "_aOLxMQ7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobModuleType"
+    }, {
+      "id" : "_z9L5EEbPEfCyku4R5VrjLg",
+      "name" : "CurrentJobRunStartDate_YYYYMMDD"
+    }, {
+      "id" : "_hf9ccA8vEfCnK7AFGcxsjw",
+      "name" : "ContinueJobRun"
+    }, {
+      "id" : "_trKDcA8uEfCnK7AFGcxsjw",
+      "name" : "Error_File_Location"
+    }, {
+      "id" : "_vzNiIErkEfCb3LHElrAy9Q",
+      "name" : "Audit_Email"
+    } ]
+  }, {
+    "contextName" : "Sandbox",
+    "repoId" : "_poeEsAjZEfC6OIqFLGHYxg",
+    "parameterList" : [ {
+      "id" : "_po3tWQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_AdditionalParams"
+    }, {
+      "id" : "_po3tWgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_ServiceName"
+    }, {
+      "id" : "_po3tWwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Schema"
+    }, {
+      "id" : "_po3tXAjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Port"
+    }, {
+      "id" : "_po3tXQjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Server"
+    }, {
+      "id" : "_po3tXgjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Password"
+    }, {
+      "id" : "_po3tXwjZEfC6OIqFLGHYxg",
+      "name" : "GMU_INT_Login"
+    } ]
+  }, {
+    "contextName" : "Sandbox",
+    "repoId" : "_adr4sA7QEfCOj-glUP_z-g",
+    "parameterList" : [ {
+      "id" : "_hXY9og7fEfCOj-glUP_z-g",
+      "name" : "CurrentBatchID"
+    }, {
+      "id" : "_OG4nNA7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunBookmark"
+    }, {
+      "id" : "_aefJ-g7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobName"
+    }, {
+      "id" : "_aefJ-A7QEfCOj-glUP_z-g",
+      "name" : "Job_Error_msg"
+    }, {
+      "id" : "_z9L5F0bPEfCyku4R5VrjLg",
+      "name" : "NextJobRunStartDate_YYYYMMDD"
+    }, {
+      "id" : "_nqPEQkbQEfCyku4R5VrjLg",
+      "name" : "RunCleanUpJob"
+    }, {
+      "id" : "_ixOmwg7REfCOj-glUP_z-g",
+      "name" : "CurrentJobRunEndDate"
+    }, {
+      "id" : "_7XNeAg7REfCOj-glUP_z-g",
+      "name" : "InsertLogRow"
+    }, {
+      "id" : "_0kDLUg7VEfCOj-glUP_z-g",
+      "name" : "LogFile"
+    }, {
+      "id" : "_OG4nNQ7oEfCArPk1M-9O3w",
+      "name" : "CurrentJobRunLogfile"
+    }, {
+      "id" : "_aefJ-w7QEfCOj-glUP_z-g",
+      "name" : "CurrentJobRunStartDate"
+    }, {
+      "id" : "_aOLxNA7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobID"
+    }, {
+      "id" : "_U0L0EkrdEfCb3LHElrAy9Q",
+      "name" : "Email_Notification"
+    }, {
+      "id" : "_vzNiJUrkEfCb3LHElrAy9Q",
+      "name" : "Audit_Email_Pass"
+    }, {
+      "id" : "_UIGNog7mEfCArPk1M-9O3w",
+      "name" : "REJECT_ROWS_EXIST"
+    }, {
+      "id" : "_aefJ-Q7QEfCOj-glUP_z-g",
+      "name" : "Job_Run_Status"
+    }, {
+      "id" : "_aOLxNQ7dEfCOj-glUP_z-g",
+      "name" : "CurrentJobModuleType"
+    }, {
+      "id" : "_z9L5FkbPEfCyku4R5VrjLg",
+      "name" : "CurrentJobRunStartDate_YYYYMMDD"
+    }, {
+      "id" : "_hf9ccg8vEfCnK7AFGcxsjw",
+      "name" : "ContinueJobRun"
+    }, {
+      "id" : "_trKDcg8uEfCnK7AFGcxsjw",
+      "name" : "Error_File_Location"
+    }, {
+      "id" : "_vzNiJErkEfCb3LHElrAy9Q",
+      "name" : "Audit_Email"
+    } ]
+  } ]
+}
